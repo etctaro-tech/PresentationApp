@@ -1,4 +1,5 @@
 # 2022/12/8 アドベントカレンダー用ソースコード
+- [Qiitaアドベントカレンダー2022](https://qiita.com/advent-calendar/2022/ntt-tx)用のサンプルコードです。
 - 社内勉強会プレゼン用アプリ
 
 ![発表のイメージ](screenshots/screenrecord.gif)
